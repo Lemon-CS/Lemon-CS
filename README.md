@@ -41,8 +41,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lemon-CS&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lemon-CS&theme=tokyonight&show_icons=true" />
+  <img width="45%" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
