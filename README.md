@@ -51,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://lemon-cs.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://lemon-cs.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://lemon-cs.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://lemon-cs.github.io/-blue?style=flat-square&logo=appveyor"></a>
 <a href="591930734@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-591930734@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
