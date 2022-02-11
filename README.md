@@ -43,7 +43,7 @@
 
 
 <a href="https://github.com/Lemon-CS">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight" />
+  <img width="45%" align="left" height="240em" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight" />
 </a>
 <a href="https://github.com/Lemon-CS">
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
