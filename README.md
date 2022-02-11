@@ -50,7 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lemon-CS&theme=tokyonight" />
 </a>
 <a href="https://github.com/Lemon-CS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lemon-CS&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lemon-CS&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
