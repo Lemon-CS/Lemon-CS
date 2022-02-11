@@ -45,9 +45,8 @@
 <a href="https://github.com/Lemon-CS">
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight&show_icons=true" />
 </a>
-<br/>
 <a href="https://github.com/Lemon-CS">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
