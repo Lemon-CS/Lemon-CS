@@ -43,16 +43,18 @@
 
 
 <a href="https://github.com/Lemon-CS">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight&show_icons=true" />
+  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Lemon-CS">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
+  <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
 <br/>
 <br/>
 <br/>
+<br/>
+<br/><br/><br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
