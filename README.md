@@ -43,15 +43,15 @@
 
 
 <a href="https://github.com/Lemon-CS">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight&show_icons=true" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/?username=Lemon-CS&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Lemon-CS">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-CS&theme=tokyonight&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="left">
+<p align="center">
   <a href="https://lemon-cs.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-MyBlog-blue?style=flat-square&logo=appveyor"></a>
   <a href="591930734@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-591930734@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
